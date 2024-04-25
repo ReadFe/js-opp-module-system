@@ -1,3 +1,3 @@
-import {run} from "./table-farid";
+import {run} from "./table-farid.js";
 
 run.makeTable();
